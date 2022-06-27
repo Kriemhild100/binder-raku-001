@@ -1,4 +1,4 @@
-FROM sumankhanal/rakudo:latest
+FROM tonyodell/rakudo-nightly
 LABEL maintainer="Dr Suman Khanal <suman81765@gmail.com>"
 
 
